@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  serv1:
+    image: danilk841/pth_tst:latest
+    command: python3 sklbx_linux_pythontst/print_time.py
